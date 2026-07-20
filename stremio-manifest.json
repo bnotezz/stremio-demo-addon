@@ -1,16 +1,16 @@
 {
-  "id": "org.stremio.openvideos.static",
+  "id": "org.stremio.blenderstudio.static",
   "version": "1.0.0",
-  "name": "Open Cinema & HLS Lab (Static Stremio)",
-  "description": "Статичний Stremio аддон із 20+ відкритими HLS/MP4 відео",
+  "name": "Blender Studio Open Movies",
+  "description": "Статичний Stremio аддон із фільмами та проектами від Blender Studio",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
   "catalogs": [
     {
       "type": "movie",
-      "id": "open_cinema_catalog",
-      "name": "Open Cinema"
+      "id": "blender_studio_catalog",
+      "name": "Blender Studio"
     }
   ],
-  "idPrefixes": ["open-", "tt"]
+  "idPrefixes": ["tmdb-", "tt"]
 }

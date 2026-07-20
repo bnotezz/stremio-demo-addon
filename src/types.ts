@@ -1,8 +1,10 @@
 export interface StremioStream {
   title: string;
-  url: string;
+  url?: string;
+  ytId?: string;
+  infoHash?: string;
   quality?: string;
-  format?: 'hls' | 'mp4' | 'dash';
+  format?: string;
   headers?: Record<string, string>;
 }
 
@@ -11,12 +13,12 @@ export interface StremioMovie {
   tmdbId?: string; // TMDB ID for metadata matching
   type: 'movie';
   name: string;
-  poster: string;
-  background: string;
+  poster?: string;
+  background?: string;
   logo?: string; // Logo image for Stremio UI
-  description: string;
-  year: number;
-  genres: string[];
+  description?: string;
+  year?: number;
+  genres?: string[];
   director?: string;
   cast?: string[];
   rating?: string;

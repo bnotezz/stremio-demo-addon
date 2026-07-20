@@ -1,7 +1,7 @@
 {
-  "name": "stremio-open-videos-addon",
+  "name": "stremio-blender-studio-addon",
   "version": "1.0.0",
-  "description": "Production-ready open videos static Stremio addon",
+  "description": "Static Stremio addon for Blender Studio open movies",
   "main": "dist/index.js",
   "scripts": {
     "build": "node build.js",

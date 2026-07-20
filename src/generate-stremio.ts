@@ -26,7 +26,7 @@ function generateStremioAddon() {
   const manifest = JSON.parse(rawManifest);
   writeJson(path.join(STREMIO_DIR, 'manifest.json'), manifest);
 
-  // 2. Генерація каталогу: catalog/movie/open_cinema_catalog.json
+  // 2. Генерація каталогу: catalog/movie/blender_studio_catalog.json
   const catalogMetas = OPEN_MOVIES.map((m) => ({
     id: m.id,
     type: m.type,
@@ -36,12 +36,12 @@ function generateStremioAddon() {
     logo: m.logo,
     description: m.description,
     genres: m.genres,
-    releaseInfo: m.year.toString(),
+    releaseInfo: m.year ? m.year.toString() : undefined,
     imdbRating: m.rating,
   }));
 
   writeJson(
-    path.join(STREMIO_DIR, 'catalog/movie/open_cinema_catalog.json'),
+    path.join(STREMIO_DIR, 'catalog/movie/blender_studio_catalog.json'),
     { metas: catalogMetas }
   );
 
@@ -59,7 +59,7 @@ function generateStremioAddon() {
         logo: movie.logo,
         description: movie.description,
         genres: movie.genres,
-        releaseInfo: movie.year.toString(),
+        releaseInfo: movie.year ? movie.year.toString() : undefined,
         director: movie.director ? [movie.director] : [],
         cast: movie.cast || [],
         imdbRating: movie.rating,
@@ -74,9 +74,11 @@ function generateStremioAddon() {
     // stream/movie/{id}.json
     const streamPayload = {
       streams: movie.streams.map((s) => ({
-        name: `Open Cinema\n[${s.quality || 'HD'}]`,
+        name: `Blender Studio\n[${s.quality || 'HD'}]`,
         title: s.title,
         url: s.url,
+        ytId: s.ytId,
+        infoHash: s.infoHash,
         behaviorHints: {
           notResponseLocation: true,
           proxyHeaders: {

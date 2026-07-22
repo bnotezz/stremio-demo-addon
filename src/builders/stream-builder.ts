@@ -26,6 +26,7 @@ export function buildStreams(
       if (raw.type === 'youtube' && raw.ytId) {
         stream.ytId = raw.ytId;
         stream.title = raw.name || tmdbTitle;
+        stream.externalUrl = `https://www.youtube.com/watch?v=${raw.ytId}`;
         seenYtIds.add(raw.ytId);
       } else if (raw.type === 'torrent' && raw.url) {
         stream.infoHash = raw.url;
@@ -51,7 +52,8 @@ export function buildStreams(
       name: "YouTube",
       title: `${bf.title} - Blender Studio`,
       ytId: bf.youtube,
-      description: "Official Release"
+      description: "Official Release",
+      externalUrl: `https://www.youtube.com/watch?v=${bf.youtube}`
     });
     seenYtIds.add(bf.youtube);
   }
@@ -65,7 +67,8 @@ export function buildStreams(
           name: "YouTube",
           title: t.name || `${tmdbTitle} Trailer`,
           ytId: t.key,
-          description: t.type // "Trailer", "Teaser", "Clip"
+          description: t.type, // "Trailer", "Teaser", "Clip"
+          externalUrl: `https://www.youtube.com/watch?v=${t.key}`
         });
         seenYtIds.add(t.key);
       }

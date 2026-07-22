@@ -4,12 +4,33 @@
   "description": "Static Stremio addon for Blender Studio open movies",
   "main": "dist/index.js",
   "scripts": {
-    "build": "node build.js",
+    "generate": "tsx src/generate-stremio.ts",
+    "build": "npm run generate",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@types/node": "^20.11.0",
+    "@stremio-addon/sdk": "^1.0.0",
+    "@types/node": "^20.19.43",
     "esbuild": "^0.20.2",
-    "typescript": "^5.4.5"
-  }
+    "tsx": "^4.23.1",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "axios": "^1.18.1",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "undici-types": "^6.21.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnotezz/stremio-demo-addon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bnotezz/stremio-demo-addon/issues"
+  },
+  "homepage": "https://github.com/bnotezz/stremio-demo-addon#readme"
 }

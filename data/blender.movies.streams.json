@@ -1,0 +1,195 @@
+[
+  {
+    "tmdb_id": 10378,
+    "trailer_url": "https://download.blender.org/peach/trailer/trailer_1080p.ogg",
+    "streams": [
+      {
+        "name": "Blender Studio",
+        "type": "youtube",
+        "ytId": "YE7VzlLtp-4",
+        "url": "https://www.youtube.com/watch?v=YE7VzlLtp-4"
+      },
+      {
+        "name": "MUX test stream",
+        "type": "hls",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      },
+      {
+        "name": "Wikipedia Big Buck Bunny 4K",
+        "quality": "4k",
+        "type": "webm",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Big_Buck_Bunny_4K.webm"
+      },
+      {
+        "name": "Blender download 1080p h264",
+        "quality": "1080p",
+        "type": "mov",
+        "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_1080p_h264.mov"
+      },
+      {
+        "url": "https://ftp.halifax.rwth-aachen.de/blender/demo/movies/BBB/bbb_sunflower_1080p_30fps_normal.mp4",
+        "quality": "1080p",
+        "type": "mp4",
+        "name": "1080p (HTTP stream)"
+      },
+      {
+        "name": "exoplayer samples",
+        "quality": "480p",
+        "type": "mp4",
+        "uri": "https://storage.googleapis.com/downloads.webmproject.org/av1/exoplayer/bbb-av1-480p.mp4"
+      },
+      {
+        "name": "androiddevelopers samples",
+        "quality": "720p",
+        "type": "mp4",
+        "uri": "http://storage.googleapis.com/androiddevelopers/samples_assets/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "name": "Torrent",
+        "quality": "1080p",
+        "type": "torrent",
+        "url": "dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 133701,
+    "streams": [
+      {
+        "name": "Wikipedia Tears of Steel 4K",
+        "quality": "4k",
+        "type": "webm",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Tears_of_Steel_in_4k_-_Official_Blender_Foundation_release.webm"
+      },
+      {
+        "name": "androiddevelopers samples",
+        "quality": "720p",
+        "type": "mp4",
+        "uri": "http://storage.googleapis.com/androiddevelopers/samples_assets/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+      },
+      {
+        "name": "MUX test stream",
+        "type": "hls",
+        "url": "https://test-streams.mux.dev/tos_ismc/main.m3u8"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 9761,
+    "streams": [
+      {
+        "name": "androiddevelopers samples",
+        "quality": "720p",
+        "type": "mp4",
+        "url": "http://storage.googleapis.com/androiddevelopers/samples_assets/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "name": "archive.org (MP4 stream)",
+        "quality": "1080p",
+        "type": "mp4",
+        "url": "https://archive.org/download/ElephantsDream/ed_1024.mp4"
+      },
+      {
+        "name": "archive.org (AVI stream)",
+        "type": "avi",
+        "url": "https://archive.org/embed/ElephantsDream/ed_1024.avi"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 358332,
+    "streams": []
+  },
+  {
+    "tmdb_id": 45745,
+    "streams": [
+      {
+        "name": "Wikipedia Sintel 4K",
+        "quality": "4k",
+        "type": "webm",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sintel_movie_4K.webm"
+      },
+      {
+        "name": "1080p (HTTP stream)",
+        "quality": "1080p",
+        "type": "mkv",
+        "url": "https://ftp.halifax.rwth-aachen.de/blender/demo/movies/Sintel.2010.1080p.mkv"
+      },
+      {
+        "name": "androiddevelopers samples",
+        "quality": "720p",
+        "type": "mp4",
+        "uri": "http://storage.googleapis.com/androiddevelopers/samples_assets/gtv-videos-bucket/sample/Sintel.mp4"
+      },
+      {
+        "name": "Torrent",
+        "quality": "480p",
+        "type": "torrent",
+        "url": "08ada5a7a6183aae1e09d831df6748d566095a10"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 406956,
+    "streams": []
+  },
+  {
+    "tmdb_id": 420577,
+    "streams": []
+  },
+  {
+    "tmdb_id": 717986,
+    "streams": []
+  },
+  {
+    "tmdb_id": 593048,
+    "streams": []
+  },
+  {
+    "tmdb_id": 1062079,
+    "streams": []
+  },
+  {
+    "tmdb_id": 498482,
+    "streams": []
+  },
+  {
+    "tmdb_id": 253777,
+    "streams": []
+  },
+  {
+    "tmdb_id": 891761,
+    "streams": []
+  },
+  {
+    "tmdb_id": 457784,
+    "streams": []
+  },
+  {
+    "tmdb_id": 253774,
+    "streams": []
+  },
+  {
+    "tmdb_id": 615324,
+    "streams": []
+  },
+  {
+    "tmdb_id": 1177628,
+    "streams": [
+      {
+        "name": "Wikipedia Wing It",
+        "quality": "1080p",
+        "type": "webm",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/WING_IT%21_-_Blender_Open_Movie-full_movie.webm"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 303438,
+    "streams": []
+  },
+  {
+    "tmdb_id": 1687677,
+    "streams": []
+  }
+]

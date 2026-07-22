@@ -1,0 +1,286 @@
+{
+  "adult": false,
+  "backdrop_path": "/9bJDwuhza19HQcYA99FeslLYmUm.jpg",
+  "belongs_to_collection": null,
+  "budget": 150000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "http://www.elephantsdream.org/",
+  "id": 9761,
+  "imdb_id": "tt0807840",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Elephants Dream",
+  "overview": "Elephants Dream is the story of two strange characters exploring a capricious and seemingly infinite machine. The elder, Proog, acts as a tour-guide and protector, happily showing off the sights and dangers of the machine to his initially curious but increasingly skeptical protege Emo. As their journey unfolds we discover signs that the machine is not all Proog thinks it is, and his guiding takes on a more desperate aspect.  Elephants Dream is a story about communication and fiction, made purposefully open-ended as the world’s first 3D animated “Open movie”. The film itself is released under the Creative Commons license, along with the entirety of the production files used to make it (roughly 7 Gigabytes of data). The software used to make the movie is the free/open source animation suite Blender along with other open source software, thus allowing the movie to be remade, remixed and re-purposed with only a computer and the data on the DVD or download.",
+  "popularity": 1.2609,
+  "poster_path": "/9zROtU9TkpZQrOuEaMAp68FOWLK.jpg",
+  "production_companies": [
+    {
+      "id": 6908,
+      "logo_path": "/l7mhd4PXPeJPOxSL1MqSfKUtTRW.png",
+      "name": "Blender Foundation",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2006-03-24",
+  "revenue": 0,
+  "runtime": 11,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Elephants Dream",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 69,
+  "images": {
+    "backdrops": [],
+    "logos": [
+      {
+        "aspect_ratio": 2.94,
+        "height": 571,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/p4CLZiCe3GQIOXoY4U4NCwV0f6B.svg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1679
+      },
+      {
+        "aspect_ratio": 2.969,
+        "height": 424,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/nwQ5ad5XgURpzx6SO50fs63T0A7.png",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1259
+      },
+      {
+        "aspect_ratio": 2.886,
+        "height": 273,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/wWnlQdVZjLg8vVDAtgIyElO3Fv1.png",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 788
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/9zROtU9TkpZQrOuEaMAp68FOWLK.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/vOUpgyu9i9HI7CzTyRdRMdbEnEn.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.744,
+        "height": 750,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/vjlRs3pn342RAJZ6GLa2c04Frqs.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 558
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43646,
+        "known_for_department": "Acting",
+        "name": "Tygo Gernandt",
+        "original_name": "Tygo Gernandt",
+        "popularity": 0.6126,
+        "profile_path": "/8hz3XHqKo97jqZndXzQC0GbnWuY.jpg",
+        "cast_id": 1,
+        "character": "Proog (voice)",
+        "credit_id": "52fe4528c3a36847f80bf89b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43648,
+        "known_for_department": "Acting",
+        "name": "Cas Jansen",
+        "original_name": "Cas Jansen",
+        "popularity": 0.4692,
+        "profile_path": "/xW0uz8Z5LdIXGArsqSSIZ4T78PP.jpg",
+        "cast_id": 2,
+        "character": "Emo (voice)",
+        "credit_id": "52fe4528c3a36847f80bf89f",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 23499,
+        "known_for_department": "Writing",
+        "name": "Bassam Kurdali",
+        "original_name": "Bassam Kurdali",
+        "popularity": 0.05,
+        "profile_path": null,
+        "credit_id": "52fe4528c3a36847f80bf8a5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 58958,
+        "known_for_department": "Art",
+        "name": "Andreas Goralczyk",
+        "original_name": "Andreas Goralczyk",
+        "popularity": 0.3181,
+        "profile_path": null,
+        "credit_id": "52fe4528c3a36847f80bf8ab",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 84078,
+        "known_for_department": "Writing",
+        "name": "Pepijn Zwanenberg",
+        "original_name": "Pepijn Zwanenberg",
+        "popularity": 0.1688,
+        "profile_path": null,
+        "credit_id": "52fe4528c3a36847f80bf8b7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 23499,
+        "known_for_department": "Writing",
+        "name": "Bassam Kurdali",
+        "original_name": "Bassam Kurdali",
+        "popularity": 0.05,
+        "profile_path": null,
+        "credit_id": "52fe4528c3a36847f80bf8b1",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133632,
+        "known_for_department": "Production",
+        "name": "Ton Roosendaal",
+        "original_name": "Ton Roosendaal",
+        "popularity": 0.212,
+        "profile_path": "/2iRRkA2oCsPLSSLz1HKDhwJZlgy.jpg",
+        "credit_id": "52fe4528c3a36847f80bf8bd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 58958,
+        "known_for_department": "Art",
+        "name": "Andreas Goralczyk",
+        "original_name": "Andreas Goralczyk",
+        "popularity": 0.3181,
+        "profile_path": null,
+        "credit_id": "5ebfb84979b3d4001c92245f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 133634,
+        "known_for_department": "Sound",
+        "name": "Jan Morgenstern",
+        "original_name": "Jan Morgenstern",
+        "popularity": 0.1874,
+        "profile_path": null,
+        "credit_id": "5ebfb86279b3d4001d93129f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1311764,
+        "known_for_department": "Production",
+        "name": "Marina Wijn",
+        "original_name": "Marina Wijn",
+        "popularity": 0.1895,
+        "profile_path": "/jTvSzpX4r41S2XbVS2XLw6niobR.jpg",
+        "credit_id": "5ebfb8c49979d2001f2bef36",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Elephants Dream Trailer",
+        "key": "_0wxP7EWsOc",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "5c8e0cae9251410fe7a0aedb",
+        "published_at": "2012-10-05T21:42:57.000Z"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0807840",
+    "wikidata_id": "Q825197",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,462 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/xtdybjRRZ15mCrPOvEld305myys.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 10378,
+    "title": "Big Buck Bunny",
+    "original_language": "en",
+    "original_title": "Big Buck Bunny",
+    "overview": "Follow a day of the life of Big Buck Bunny when he meets three bullying rodents: Frank, Rinky, and Gamera. The rodents amuse themselves by harassing helpless creatures by throwing fruits, nuts and rocks at them. After the deaths of two of Bunny's favorite butterflies, and an offensive attack on Bunny himself, Bunny sets aside his gentle nature and orchestrates a complex plan for revenge.",
+    "popularity": 1.0966,
+    "poster_path": "/i9jJzvoXET4D9pOkoEwncSdNNER.jpg",
+    "release_date": "2008-04-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.513,
+    "vote_count": 197,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9bJDwuhza19HQcYA99FeslLYmUm.jpg",
+    "genre_ids": [
+      16,
+      878
+    ],
+    "id": 9761,
+    "title": "Elephants Dream",
+    "original_language": "en",
+    "original_title": "Elephants Dream",
+    "overview": "Elephants Dream is the story of two strange characters exploring a capricious and seemingly infinite machine. The elder, Proog, acts as a tour-guide and protector, happily showing off the sights and dangers of the machine to his initially curious but increasingly skeptical protege Emo. As their journey unfolds we discover signs that the machine is not all Proog thinks it is, and his guiding takes on a more desperate aspect.  Elephants Dream is a story about communication and fiction, made purposefully open-ended as the world’s first 3D animated “Open movie”. The film itself is released under the Creative Commons license, along with the entirety of the production files used to make it (roughly 7 Gigabytes of data). The software used to make the movie is the free/open source animation suite Blender along with other open source software, thus allowing the movie to be remade, remixed and re-purposed with only a computer and the data on the DVD or download.",
+    "popularity": 1.2609,
+    "poster_path": "/9zROtU9TkpZQrOuEaMAp68FOWLK.jpg",
+    "release_date": "2006-03-24",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 69,
+    "genres": [
+      "Animation",
+      "Science Fiction"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fOy6SL5Zs2PFcNXwqEPIDPrLB1q.jpg",
+    "genre_ids": [
+      878,
+      16
+    ],
+    "id": 133701,
+    "title": "Tears of Steel",
+    "original_language": "en",
+    "original_title": "Tears of Steel",
+    "overview": "The film’s premise is about a group of warriors and scientists, who gathered at the “Oude Kerk” in Amsterdam to stage a crucial event from the past, in a desperate attempt to rescue the world from destructive robots.",
+    "popularity": 0.8924,
+    "poster_path": "/8qy3jRmaHR7f8VZh3iXCqCWfFsH.jpg",
+    "release_date": "2012-09-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 62,
+    "genres": [
+      "Science Fiction",
+      "Animation"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/msqeiEyIRpPAtrCeRGFNZQ9tkJL.jpg",
+    "genre_ids": [
+      16,
+      14
+    ],
+    "id": 45745,
+    "title": "Sintel",
+    "original_language": "en",
+    "original_title": "Sintel",
+    "overview": "A wandering warrior finds an unlikely friend in the form of a young dragon. The two develop a close bond, until one day the dragon is snatched away. She then sets out on a relentless quest to reclaim her friend, finding in the end that her quest exacts a far greater price than she had ever imagined.",
+    "popularity": 0.7234,
+    "poster_path": "/4BMG9hk9NvSBeQvC82sVmVRK140.jpg",
+    "release_date": "2010-09-30",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 174,
+    "genres": [
+      "Animation",
+      "Fantasy"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pUHJzzq6fUowt8NrfDL5JAfjbqR.jpg",
+    "genre_ids": [
+      16
+    ],
+    "id": 717986,
+    "title": "Coffee Run",
+    "original_language": "en",
+    "original_title": "Coffee Run",
+    "overview": "Fueled by caffeine, a young woman runs through the bittersweet memories of her past relationship.  All graphic content is CC-By Blender Studio.",
+    "popularity": 0.6316,
+    "poster_path": "/tFaE5KZOzTTTaNAEDD8CY1ZBjei.jpg",
+    "release_date": "2020-05-29",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 10,
+    "genres": [
+      "Animation"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hwvuivrtKFA4tPkW81txs7oKJOx.jpg",
+    "genre_ids": [
+      16
+    ],
+    "id": 1062079,
+    "title": "Charge",
+    "original_language": "en",
+    "original_title": "Charge",
+    "overview": "Blender Studio’s 14th Open Movie is a high-visual-impact, action-packed 2-minutes-long animation inspired by the game cinematics and realtime demos formats.",
+    "popularity": 0.6257,
+    "poster_path": "/rwtz71mOYHp7JbTVOzRCfveWNzq.jpg",
+    "release_date": "2022-12-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 6,
+    "genres": [
+      "Animation"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/f2wABsgj2lIR2dkDEfBZX8p4Iyk.jpg",
+    "genre_ids": [
+      16,
+      14
+    ],
+    "id": 358332,
+    "title": "Cosmos Laundromat",
+    "original_language": "en",
+    "original_title": "Cosmos Laundromat",
+    "overview": "On a desolate island, a suicidal sheep named Franck meets his fate…in the form of a quirky salesman named Victor, who offers him the gift of a lifetime. The gift is many lifetimes, actually, in many different worlds – each lasting just a few minutes. In the sequel to the pilot, Franck will find a new reason to live…in the form of a bewitching female adventurer named Tara, who awakens his long-lost lust for life. But can Franck keep up with her?",
+    "popularity": 0.8153,
+    "poster_path": "/5ZXi0oitpEgAdoJglFTc5SZF9nt.jpg",
+    "release_date": "2015-08-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.35,
+    "vote_count": 60,
+    "genres": [
+      "Animation",
+      "Fantasy"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tIX2BIhkhoFq1iwtHYzTSbHbe82.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 406956,
+    "title": "Caminandes: Llamigos",
+    "original_language": "en",
+    "original_title": "Caminandes: Llamigos",
+    "overview": "In this episode of the Caminandes cartoon series we learn to know our hero Koro even better! It's winter in Patagonia, food is getting scarce. Koro the Llama engages with Oti the pesky penguin in an epic fight over that last tasty berry.  This short animation film was made with Blender and funded by the subscribers of the Blender Cloud platform. Already since 2007, Blender Institute successfully combines film and media production with improving a free and open source 3D creation pipeline.",
+    "popularity": 0.5656,
+    "poster_path": "/753kJbZ5iS7DUomTKX9qF5Cs5NY.jpg",
+    "release_date": "2016-01-30",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 9,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lL04DVOu1b64Xoj1EuWHZdtcfaZ.jpg",
+    "genre_ids": [
+      14,
+      16,
+      12
+    ],
+    "id": 593048,
+    "title": "Spring",
+    "original_language": "en",
+    "original_title": "Spring",
+    "overview": "The story of a shepherd girl and her dog who face ancient spirits in order to continue the cycle of life.",
+    "popularity": 0.534,
+    "poster_path": "/g5dSJtpoXYCSVx70srSAc3wqNFc.jpg",
+    "release_date": "2019-04-04",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 16,
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Adventure"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aupI9kV5CawUp02XWnI2l7Ym9SH.jpg",
+    "genre_ids": [
+      28,
+      16,
+      35
+    ],
+    "id": 457784,
+    "title": "Agent 327: Operation Barbershop",
+    "original_language": "en",
+    "original_title": "Agent 327: Operation Barbershop",
+    "overview": "Agent 327 is investigating a clue that leads him to a shady barbershop in Amsterdam. Little does he know that he is being tailed by mercenary Boris Kloris.",
+    "popularity": 0.4551,
+    "poster_path": "/tSIMZK9XZSIb1dL3iQeTESEZvHw.jpg",
+    "release_date": "2017-05-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.97,
+    "vote_count": 33,
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8oCW8Njdabb9K3OwK1y8KUsHFvk.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "id": 498482,
+    "title": "The Daily Dweebs",
+    "original_language": "en",
+    "original_title": "The Daily Dweebs",
+    "overview": "The Daily Dweebs is a pilot episode of an animated series revolving around the pet Dixey and his shenanigans in 1950's American suburbia.",
+    "popularity": 0.5031,
+    "poster_path": "/jTTm5zgJRPYSKD2aEp6F7bVI7b.jpg",
+    "release_date": "2017-10-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 9,
+    "genres": [
+      "Animation",
+      "Comedy"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7poXZZ6JZA0AN9nhXvt8JbzlX7T.jpg",
+    "genre_ids": [
+      16
+    ],
+    "id": 615324,
+    "title": "HERO",
+    "original_language": "en",
+    "original_title": "HERO",
+    "overview": "\"Hero\" is a short animation where our protagonist faces a crucial test; \"What does it mean to be a true hero?\" HERO is made using Blender as showcase of Blender's Grease Pencil Tool that allows 2D animation tools within a full 3D pipeline.",
+    "popularity": 0.2127,
+    "poster_path": "/udWCrPAYCzZh6rp48dGr90ohJ2v.jpg",
+    "release_date": "2018-04-16",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 8,
+    "genres": [
+      "Animation"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AlqiewYiIpnoR4yqeo17y1SBf6S.jpg",
+    "genre_ids": [
+      16
+    ],
+    "id": 420577,
+    "title": "Glass Half",
+    "original_language": "en",
+    "original_title": "Glass Half",
+    "overview": "Two amateur art critics meet in a gallery and argue passionately about the pieces they see, until finally they find a piece on which they can agree...",
+    "popularity": 0.436,
+    "poster_path": "/hrAEYBMb6vitzXMvBC7RKj3ZyWt.jpg",
+    "release_date": "2015-10-30",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 11,
+    "genres": [
+      "Animation"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/206A3X9EH42kmdQMECq90SbjHCn.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 253774,
+    "title": "Caminandes: Gran Dillama",
+    "original_language": "en",
+    "original_title": "Caminandes: Gran Dillama",
+    "overview": "A young llama named Koro discovers that the grass is always greener on the other side (of the fence).",
+    "popularity": 0.2578,
+    "poster_path": "/7YtEiEzRBVCr8Sbgo1kVsr3OCMk.jpg",
+    "release_date": "2013-11-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 17,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mjkoC8Vo7fSHuqrbVQdI6cNwKA2.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "id": 253777,
+    "title": "Caminandes: Llama Drama",
+    "original_language": "en",
+    "original_title": "Caminandes: Llama Drama",
+    "overview": "Koro wants to get to the other side of the road.",
+    "popularity": 0.1942,
+    "poster_path": "/66VPke0YSiyfe97aobbcZ55ts56.jpg",
+    "release_date": "2013-02-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 8,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aCMT1okuiKFnyKHdCOez66rJKyT.jpg",
+    "genre_ids": [
+      16,
+      27,
+      35
+    ],
+    "id": 891761,
+    "title": "Sprite Fright",
+    "original_language": "en",
+    "original_title": "Sprite Fright",
+    "overview": "Set in 80’s-Britain, when a group of rowdy teenagers trek into an isolated forest, they discover peaceful mushroom creatures that turn out to be an unexpected force of nature.",
+    "popularity": 0.2958,
+    "poster_path": "/AjWJQOogG4Irpff6K49tzrUTb1s.jpg",
+    "release_date": "2024-04-06",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 5,
+    "genres": [
+      "Animation",
+      "Horror",
+      "Comedy"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      16,
+      35
+    ],
+    "id": 303438,
+    "title": "Monkaa",
+    "original_language": "en",
+    "original_title": "Monkaa",
+    "overview": "Monkaa is a blue furred, pink faced monkey who consumes a crystallized meteorite, making Monkaa invincibly strong and too hot to handle. Exploring his superpower Monkaa zooms into an unexplored universe.  Project Monkaa is a 5 minutes short animated movie, entirely made with Blender and GIMP and other Free/Open Software programs. It has been released as an Open Movie, including all production files and tutorials, as CC-BY at cloud.blender.org and as DVD in the blender.org store.  Produced by: Weybec  Released by Blender Cloud and blender.org e-store",
+    "popularity": 0.1318,
+    "poster_path": "/cPd2cekKSZMGHDomFrh7YKpdLv1.jpg",
+    "release_date": "2014-10-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 3,
+    "genres": [
+      "Animation",
+      "Comedy"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o2G1kW9pCcRo7NmiZhJBm5LcVpH.jpg",
+    "genre_ids": [
+      35,
+      16
+    ],
+    "id": 1177628,
+    "title": "Wing It!",
+    "original_language": "xx",
+    "original_title": "Wing It!",
+    "overview": "Blender Studio’s 15th Open Movie: An uptight engineer gets an unwelcome visit from a enthusiastic wannabe-pilot, causing both of them to be launched into the air inside an out-of-control space shuttle.",
+    "popularity": 0.152,
+    "poster_path": "/kVRGAgqUC2u75pLsXgDj14tOsRJ.jpg",
+    "release_date": "2023-09-06",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "genres": [
+      "Comedy",
+      "Animation"
+    ]
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kO1leUeopPmJRTeRxThR0eo15GE.jpg",
+    "genre_ids": [
+      16
+    ],
+    "id": 1687677,
+    "title": "Singularity",
+    "original_language": "xx",
+    "original_title": "Singularity",
+    "overview": "Our story takes place in a distant age of the universe, when the stars and galaxies were young. When an ominous cosmic event swallows the icy home of a small space critter, he must find refuge among a group of luminous creatures watched over by a mysterious celestial being.",
+    "popularity": 0.1194,
+    "poster_path": "/tsTGGB6NGVzHMuNXEV328jU0Eyx.jpg",
+    "release_date": "2026-05-08",
+    "softcore": false,
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "genres": [
+      "Animation"
+    ]
+  }
+]

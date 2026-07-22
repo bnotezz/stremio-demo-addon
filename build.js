@@ -1,21 +1,9 @@
-const esbuild = require('esbuild');
+const { execSync } = require('child_process');
 
-async function run() {
-  await esbuild.build({
-    entryPoints: ['src/generate-stremio.ts'],
-    outfile: 'dist/gen.js',
-    platform: 'node',
-    bundle: true,
-    format: 'cjs'
-  });
-  
-  console.log('📦 Bundled generator into dist/gen.js');
-  
-  // Запускаємо згенерований скрипт
-  require('./dist/gen.js');
-}
-
-run().catch((err) => {
-  console.error(err);
+try {
+  console.log('Running generator...');
+  execSync('npx tsx src/generate-stremio.ts', { stdio: 'inherit' });
+} catch (err) {
+  console.error('Failed to run generator:', err);
   process.exit(1);
-});
+}

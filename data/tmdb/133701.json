@@ -1,0 +1,413 @@
+{
+  "adult": false,
+  "backdrop_path": "/fOy6SL5Zs2PFcNXwqEPIDPrLB1q.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "http://www.tearsofsteel.org/",
+  "id": 133701,
+  "imdb_id": "tt5129250",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tears of Steel",
+  "overview": "The film’s premise is about a group of warriors and scientists, who gathered at the “Oude Kerk” in Amsterdam to stage a crucial event from the past, in a desperate attempt to rescue the world from destructive robots.",
+  "popularity": 0.8924,
+  "poster_path": "/8qy3jRmaHR7f8VZh3iXCqCWfFsH.jpg",
+  "production_companies": [
+    {
+      "id": 6908,
+      "logo_path": "/l7mhd4PXPeJPOxSL1MqSfKUtTRW.png",
+      "name": "Blender Foundation",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2012-09-25",
+  "revenue": 0,
+  "runtime": 12,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tears of Steel",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 62,
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 1024,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/8qy3jRmaHR7f8VZh3iXCqCWfFsH.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 691
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 2963,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/fAr0o3zSIMhKm214BcfgkQ29z8L.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 1024,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/nSn5ScuQScafgqdfDx5aJJGvJL9.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 691
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/vamqM0xH998F8B9WicVAkWP6E9N.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1000
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9128,
+        "known_for_department": "Acting",
+        "name": "Derek de Lint",
+        "original_name": "Derek de Lint",
+        "popularity": 0.7351,
+        "profile_path": "/8fRRmh8EYZBlUtu1Wlop0j22QcP.jpg",
+        "cast_id": 1,
+        "character": "Old Thom",
+        "credit_id": "52fe4bb9c3a368484e196ab1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237150,
+        "known_for_department": "Acting",
+        "name": "Sergio Hasselbaink",
+        "original_name": "Sergio Hasselbaink",
+        "popularity": 0.4629,
+        "profile_path": "/6xjL2LqOEURISAzzFLtYsIVmGT1.jpg",
+        "cast_id": 2,
+        "character": "Barly",
+        "credit_id": "52fe4bb9c3a368484e196ab5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1097815,
+        "known_for_department": "Acting",
+        "name": "Vanja Rukavina",
+        "original_name": "Vanja Rukavina",
+        "popularity": 0.2146,
+        "profile_path": "/4zzhALIIwYvBFmem3dm6nOZg8py.jpg",
+        "cast_id": 3,
+        "character": "Thom",
+        "credit_id": "52fe4bb9c3a368484e196ab9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097816,
+        "known_for_department": "Acting",
+        "name": "Denise Rebergen",
+        "original_name": "Denise Rebergen",
+        "popularity": 0.2653,
+        "profile_path": "/hBJjiMZsz5WaEgCpkUsw7Z0lekD.jpg",
+        "cast_id": 4,
+        "character": "Celia",
+        "credit_id": "52fe4bb9c3a368484e196abd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 217240,
+        "known_for_department": "Acting",
+        "name": "Rogier Schippers",
+        "original_name": "Rogier Schippers",
+        "popularity": 0.2601,
+        "profile_path": "/fUeXGTjkNZPwHK1JZwtiK6SUYmT.jpg",
+        "cast_id": 5,
+        "character": "Kapitän",
+        "credit_id": "52fe4bb9c3a368484e196ac1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1097817,
+        "known_for_department": "Acting",
+        "name": "Chris Haley",
+        "original_name": "Chris Haley",
+        "popularity": 0.1108,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Tech head",
+        "credit_id": "52fe4bb9c3a368484e196ac5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097818,
+        "known_for_department": "Acting",
+        "name": "Jody Bhe",
+        "original_name": "Jody Bhe",
+        "popularity": 0.1203,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Djenghis",
+        "credit_id": "52fe4bb9c3a368484e196ac9",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097840,
+        "known_for_department": "Sound",
+        "name": "Joram Letwory",
+        "original_name": "Joram Letwory",
+        "popularity": 0.0654,
+        "profile_path": null,
+        "credit_id": "52fe4bb9c3a368484e196b1d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097838,
+        "known_for_department": "Crew",
+        "name": "Rob Tuytel",
+        "original_name": "Rob Tuytel",
+        "popularity": 0.0757,
+        "profile_path": "/aEgdR3o66E1DHuisajE2m8j9ECK.jpg",
+        "credit_id": "52fe4bb9c3a368484e196b11",
+        "department": "Crew",
+        "job": "Production Intern"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137897,
+        "known_for_department": "Writing",
+        "name": "Ian Hubert",
+        "original_name": "Ian Hubert",
+        "popularity": 0.474,
+        "profile_path": "/jQZyjm3zMd2QG5O75QVlZCFXVj6.jpg",
+        "credit_id": "52fe4bb9c3a368484e196ad5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097833,
+        "known_for_department": "Visual Effects",
+        "name": "Kjartan Tysdal",
+        "original_name": "Kjartan Tysdal",
+        "popularity": 0.0332,
+        "profile_path": null,
+        "credit_id": "52fe4bb9c3a368484e196af9",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097835,
+        "known_for_department": "Art",
+        "name": "Nicolò Zubbini",
+        "original_name": "Nicolò Zubbini",
+        "popularity": 0.076,
+        "profile_path": null,
+        "credit_id": "52fe4bb9c3a368484e196aff",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137897,
+        "known_for_department": "Writing",
+        "name": "Ian Hubert",
+        "original_name": "Ian Hubert",
+        "popularity": 0.474,
+        "profile_path": "/jQZyjm3zMd2QG5O75QVlZCFXVj6.jpg",
+        "credit_id": "52fe4bb9c3a368484e196acf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133632,
+        "known_for_department": "Production",
+        "name": "Ton Roosendaal",
+        "original_name": "Ton Roosendaal",
+        "popularity": 0.212,
+        "profile_path": "/2iRRkA2oCsPLSSLz1HKDhwJZlgy.jpg",
+        "credit_id": "52fe4bb9c3a368484e196adb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097826,
+        "known_for_department": "Art",
+        "name": "David Revoy",
+        "original_name": "David Revoy",
+        "popularity": 0.1151,
+        "profile_path": null,
+        "credit_id": "52fe4bb9c3a368484e196ae7",
+        "department": "Art",
+        "job": "Conceptual Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097824,
+        "known_for_department": "Camera",
+        "name": "Joris Kerbosch",
+        "original_name": "Joris Kerbosch",
+        "popularity": 0.1811,
+        "profile_path": null,
+        "credit_id": "52fe4bb9c3a368484e196ae1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097832,
+        "known_for_department": "Visual Effects",
+        "name": "Sebastian Koenig",
+        "original_name": "Sebastian Koenig",
+        "popularity": 0.0391,
+        "profile_path": null,
+        "credit_id": "52fe4bb9c3a368484e196af3",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097830,
+        "known_for_department": "Visual Effects",
+        "name": "Jeremy Davidson",
+        "original_name": "Jeremy Davidson",
+        "popularity": 0.0929,
+        "profile_path": null,
+        "credit_id": "52fe4bb9c3a368484e196aed",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097836,
+        "known_for_department": "Visual Effects",
+        "name": "Roman Volodin",
+        "original_name": "Roman Volodin",
+        "popularity": 0.048,
+        "profile_path": null,
+        "credit_id": "52fe4bb9c3a368484e196b05",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 58958,
+        "known_for_department": "Art",
+        "name": "Andreas Goralczyk",
+        "original_name": "Andreas Goralczyk",
+        "popularity": 0.3181,
+        "profile_path": null,
+        "credit_id": "52fe4bb9c3a368484e196b0b",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097839,
+        "known_for_department": "Sound",
+        "name": "Joram Letwory",
+        "original_name": "Joram Letwory",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "52fe4bb9c3a368484e196b17",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Tears of Steel - Teaser",
+        "key": "WwHux5QZfC8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": false,
+        "id": "533ec6f0c3a36854480093a2",
+        "published_at": "2012-07-13T16:47:39.000Z"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt5129250",
+    "wikidata_id": "Q1173161",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

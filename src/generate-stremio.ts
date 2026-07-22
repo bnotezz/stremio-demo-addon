@@ -1,101 +1,133 @@
-import * as fs from 'fs';
-import * as path from 'path';
-import { OPEN_MOVIES } from './data/movies';
+import fs from 'fs';
+import path from 'path';
+import type { MetaPreview } from '@stremio-addon/sdk';
 
-const STREMIO_DIR = path.join(__dirname, '../dist/stremio');
+import { loadJsonFile } from './utils/data-loader.js';
+import { buildMetaDetail } from './builders/meta-builder.js';
+import { buildStreams } from './builders/stream-builder.js';
+import { buildManifest } from './builders/manifest-builder.js';
 
-function ensureDir(dirPath: string) {
-  if (!fs.existsSync(dirPath)) {
-    fs.mkdirSync(dirPath, { recursive: true });
-  }
+import type {
+  TmdbCatalogItem,
+  TmdbMovieDetail,
+  BlenderFilm,
+  MdbListItem,
+  StreamsEntry
+} from './types/data-sources.js';
+
+const DIST_DIR = path.resolve(process.cwd(), 'dist/stremio');
+const CATALOG_DIR = path.join(DIST_DIR, 'catalog/movie');
+const META_DIR = path.join(DIST_DIR, 'meta/movie');
+const STREAM_DIR = path.join(DIST_DIR, 'stream/movie');
+
+function ensureDirs() {
+  [DIST_DIR, CATALOG_DIR, META_DIR, STREAM_DIR].forEach(dir => {
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir, { recursive: true });
+    }
+  });
 }
 
 function writeJson(filePath: string, data: any) {
-  ensureDir(path.dirname(filePath));
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
 }
 
-function generateStremioAddon() {
-  console.log('🚀 Generating Static Stremio Addon files...');
+function main() {
+  console.log('🚀 Starting Stremio static addon generation...');
+  ensureDirs();
 
-  // 1. Копіюємо та адаптуємо manifest.json
-  const rawManifest = fs.readFileSync(
-    path.join(__dirname, '../stremio-manifest.json'),
-    'utf-8'
-  );
-  const manifest = JSON.parse(rawManifest);
-  writeJson(path.join(STREMIO_DIR, 'manifest.json'), manifest);
+  // 1. Load Data
+  const tmdbCatalog = loadJsonFile<TmdbCatalogItem[]>('data/blender.movies.tmdb.json');
+  const blenderFilms = loadJsonFile<BlenderFilm[]>('data/blender_films.json');
+  const mdblist = loadJsonFile<MdbListItem[]>('data/blender.movies.mdblist.json');
+  const streamsData = loadJsonFile<StreamsEntry[]>('data/blender.movies.streams.json');
+  const baseManifest = loadJsonFile<any>('stremio-manifest.json');
 
-  // 2. Генерація каталогу: catalog/movie/blender_studio_catalog.json
-  const catalogMetas = OPEN_MOVIES.map((m) => ({
-    id: m.id,
-    type: m.type,
-    name: m.name,
-    poster: m.poster,
-    background: m.background,
-    logo: m.logo,
-    description: m.description,
-    genres: m.genres,
-    releaseInfo: m.year ? m.year.toString() : undefined,
-    imdbRating: m.rating,
-  }));
+  // Lookup maps
+  const mdblistMap = new Map(mdblist.map(item => [item.ids.tmdb, item]));
+  const streamsMap = new Map(streamsData.map(item => [item.tmdb_id, item]));
 
-  writeJson(
-    path.join(STREMIO_DIR, 'catalog/movie/blender_studio_catalog.json'),
-    { metas: catalogMetas }
-  );
+  const metasPreview: MetaPreview[] = [];
+  const uniqueGenres = new Set<string>();
 
-  // 3. Генерація Meta та Stream ендпоінтів для кожного відео
-  OPEN_MOVIES.forEach((movie) => {
-    // meta/movie/{id}.json
-    const metaPayload = {
-      meta: {
-        id: movie.id,
-        tmdbId: movie.tmdbId, // TMDB ID mapping for compatibility
-        type: movie.type,
-        name: movie.name,
-        poster: movie.poster,
-        background: movie.background,
-        logo: movie.logo,
-        description: movie.description,
-        genres: movie.genres,
-        releaseInfo: movie.year ? movie.year.toString() : undefined,
-        director: movie.director ? [movie.director] : [],
-        cast: movie.cast || [],
-        imdbRating: movie.rating,
-        runtime: movie.duration,
-      },
-    };
-    writeJson(
-      path.join(STREMIO_DIR, `meta/movie/${movie.id}.json`),
-      metaPayload
-    );
+  // 2. Process each movie
+  for (const item of tmdbCatalog) {
+    console.log(`Processing: ${item.title} (TMDB: ${item.id})`);
+    
+    let detail: TmdbMovieDetail | undefined;
+    try {
+      detail = loadJsonFile<TmdbMovieDetail>(`data/tmdb/${item.id}.json`);
+    } catch (e) {
+      console.warn(`⚠️ Warning: Missing detail file for TMDB ID ${item.id}`);
+    }
 
-    // stream/movie/{id}.json
-    const streamPayload = {
-      streams: movie.streams.map((s) => ({
-        name: `Blender Studio\n[${s.quality || 'HD'}]`,
-        title: s.title,
-        url: s.url,
-        ytId: s.ytId,
-        infoHash: s.infoHash,
-        behaviorHints: {
-          notResponseLocation: true,
-          proxyHeaders: {
-            request: {
-              'User-Agent': 'Stremio-Static-Addon/1.0',
-            },
-          },
-        },
-      })),
-    };
-    writeJson(
-      path.join(STREMIO_DIR, `stream/movie/${movie.id}.json`),
-      streamPayload
-    );
+    const mdblistItem = mdblistMap.get(item.id);
+    const streamEntry = streamsMap.get(item.id);
+
+    // Build rich meta
+    const metaDetail = buildMetaDetail(item, detail, mdblistItem, blenderFilms);
+    metaDetail.genres?.forEach(g => uniqueGenres.add(g));
+
+    // Save meta
+    writeJson(path.join(META_DIR, `tmdb-${item.id}.json`), { meta: metaDetail });
+    
+    // Also save aliases for IMDB ID if available (for better compatibility)
+    if (metaDetail.imdbRating) { // We used imdbRating condition for links earlier, let's use the actual imdbId
+       const imdbId = mdblistItem?.ids?.imdb || detail?.external_ids?.imdb_id;
+       if (imdbId) {
+         writeJson(path.join(META_DIR, `${imdbId}.json`), { meta: metaDetail });
+       }
+    }
+
+    // Prepare catalog preview
+    metasPreview.push({
+      id: metaDetail.id,
+      type: metaDetail.type,
+      name: metaDetail.name,
+      poster: metaDetail.poster,
+      posterShape: metaDetail.posterShape,
+      background: metaDetail.background,
+      logo: metaDetail.logo,
+      description: metaDetail.description,
+      trailers: metaDetail.trailers,
+      // Cinemeta extra fields
+      imdbRating: metaDetail.imdbRating,
+      year: metaDetail.releaseInfo,
+      moviedb_id: item.id,
+      runtime: metaDetail.runtime,
+      genres: metaDetail.genres,
+      imdb_id: mdblistItem?.ids?.imdb || detail?.external_ids?.imdb_id
+    } as any);
+
+    // Build and save streams
+    const streams = buildStreams(item.title, detail, blenderFilms, streamEntry);
+    writeJson(path.join(STREAM_DIR, `tmdb-${item.id}.json`), { streams });
+    
+    // Alias streams by IMDB ID
+    const imdbId = mdblistItem?.ids?.imdb || detail?.external_ids?.imdb_id;
+    if (imdbId) {
+      writeJson(path.join(STREAM_DIR, `${imdbId}.json`), { streams });
+    }
+  }
+
+  // 3. Generate Catalog
+  // Sort movies by release year descending, then by title
+  metasPreview.sort((a, b) => {
+    // We don't have release year in preview, so we just sort by ID to be deterministic, 
+    // or we could extract it from full meta. Let's just use name for now.
+    return a.name.localeCompare(b.name);
   });
+  
+  writeJson(path.join(CATALOG_DIR, 'blender_studio_catalog.json'), { metas: metasPreview });
 
-  console.log('✅ Static Stremio Addon successfully generated in dist/stremio!');
+  // 4. Generate Manifest
+  const manifest = buildManifest(baseManifest, Array.from(uniqueGenres));
+  writeJson(path.join(DIST_DIR, 'manifest.json'), manifest);
+
+  console.log('✅ Generation complete!');
+  console.log(`- Created ${metasPreview.length} movie entries`);
+  console.log(`- Detected ${uniqueGenres.size} unique genres`);
+  console.log(`- Output located in ${DIST_DIR}`);
 }
 
-generateStremioAddon();
+main();

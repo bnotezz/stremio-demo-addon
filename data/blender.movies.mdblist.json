@@ -1,0 +1,2654 @@
+[
+  {
+    "id": 86837,
+    "title": "Elephants Dream",
+    "year": 2006,
+    "released": "2006-03-24",
+    "description": "Elephants Dream is the story of two strange characters exploring a capricious and seemingly infinite machine. The elder, Proog, acts as a tour-guide and protector, happily showing off the sights and dangers of the machine to his initially curious but increasingly skeptical protege Emo. As their journey unfolds we discover signs that the machine is not all Proog thinks it is, and his guiding takes on a more desperate aspect.  Elephants Dream is a story about communication and fiction, made purposefully open-ended as the world’s first 3D animated “Open movie”. The film itself is released under the Creative Commons license, along with the entirety of the production files used to make it (roughly 7 Gigabytes of data). The software used to make the movie is the free/open source animation suite Blender along with other open source software, thus allowing the movie to be remade, remixed and re-purposed with only a computer and the data on the DVD or download.",
+    "tagline": null,
+    "runtime": 11,
+    "budget": 150000,
+    "revenue": null,
+    "score": 33,
+    "score_average": 58,
+    "ids": {
+      "imdb": "tt0807840",
+      "trakt": 5022,
+      "tmdb": 9761,
+      "tvdb": 16180,
+      "mal": null,
+      "mdblist": "1v05"
+    },
+    "type": "movie",
+    "updated": "2026-07-16T02:05:44.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 5.6,
+        "score": 56,
+        "votes": 1397,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/mriia-sloniv"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 60,
+        "score": 60,
+        "votes": 74,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/elephants-dream",
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": 54,
+        "score": 54,
+        "votes": 6,
+        "url": "/m/elephants-dream"
+      },
+      {
+        "source": "tmdb",
+        "value": 58,
+        "score": 58,
+        "votes": 69,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": 6.2,
+        "score": 62,
+        "votes": 462,
+        "url": "/film/elephants-dream/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 16,
+        "title": "Science Fiction"
+      },
+      {
+        "id": 67,
+        "title": "Sci-Fi"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "en",
+    "country": "US",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "Released",
+    "trailer": "https://youtube.com/watch?v=_0wxP7EWsOc",
+    "poster": "https://image.tmdb.org/t/p/original/9zROtU9TkpZQrOuEaMAp68FOWLK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/9bJDwuhza19HQcYA99FeslLYmUm.jpg"
+  },
+  {
+    "id": 524987,
+    "title": "Big Buck Bunny",
+    "year": 2008,
+    "released": "2008-04-10",
+    "description": "Follow a day of the life of Big Buck Bunny when he meets three bullying rodents: Frank, Rinky, and Gamera. The rodents amuse themselves by harassing helpless creatures by throwing fruits, nuts and rocks at them. After the deaths of two of Bunny's favorite butterflies, and an offensive attack on Bunny himself, Bunny sets aside his gentle nature and orchestrates a complex plan for revenge.",
+    "tagline": null,
+    "runtime": 8,
+    "budget": 150000,
+    "revenue": null,
+    "score": 47,
+    "score_average": 62,
+    "ids": {
+      "imdb": "tt1254207",
+      "trakt": 5573,
+      "tmdb": 10378,
+      "tvdb": 12352,
+      "mal": null,
+      "mdblist": "b92z"
+    },
+    "type": "movie",
+    "updated": "2026-06-24T12:07:06.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 6.4,
+        "score": 64,
+        "votes": 2261,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/velikii-bak"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 70,
+        "score": 70,
+        "votes": 329,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/big-buck-bunny",
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": 54,
+        "score": 54,
+        "votes": 14,
+        "url": "/m/big-buck-bunny"
+      },
+      {
+        "source": "tmdb",
+        "value": 65,
+        "score": 65,
+        "votes": 197,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": 5.8,
+        "score": 58,
+        "votes": 1571,
+        "url": "/film/big-buck-bunny/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 3,
+        "title": "Comedy"
+      },
+      {
+        "id": 7,
+        "title": "Family"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [
+      {
+        "id": 538,
+        "name": "Plex"
+      },
+      {
+        "id": 2285,
+        "name": "JustWatch TV"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "xx",
+    "country": "NL",
+    "certification": "G",
+    "commonsense": null,
+    "age_rating": 7,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "Released",
+    "trailer": "https://youtube.com/watch?v=yUQM7H4Swgw",
+    "poster": "https://image.tmdb.org/t/p/original/i9jJzvoXET4D9pOkoEwncSdNNER.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/xtdybjRRZ15mCrPOvEld305myys.jpg"
+  },
+  {
+    "id": 1226107,
+    "title": "Sintel",
+    "year": 2010,
+    "released": "2010-09-30",
+    "description": "A wandering warrior finds an unlikely friend in the form of a young dragon. The two develop a close bond, until one day the dragon is snatched away. She then sets out on a relentless quest to reclaim her friend, finding in the end that her quest exacts a far greater price than she had ever imagined.",
+    "tagline": null,
+    "runtime": 14,
+    "budget": 450000,
+    "revenue": null,
+    "score": 57,
+    "score_average": 73,
+    "ids": {
+      "imdb": "tt1727587",
+      "trakt": 31258,
+      "tmdb": 45745,
+      "tvdb": 9413,
+      "mal": null,
+      "mdblist": "qa2j"
+    },
+    "type": "movie",
+    "updated": "2026-06-26T19:45:21.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 7.4,
+        "score": 74,
+        "votes": 3783,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 75,
+        "score": 75,
+        "votes": 275,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/sintel",
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": 74,
+        "score": 74,
+        "votes": 19,
+        "url": "/m/sintel"
+      },
+      {
+        "source": "tmdb",
+        "value": 73,
+        "score": 73,
+        "votes": 174,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": 6.8,
+        "score": 68,
+        "votes": 1151,
+        "url": "/film/sintel/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 8,
+        "title": "Fantasy"
+      },
+      {
+        "id": 1,
+        "title": "Action"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [
+      {
+        "id": 3,
+        "name": "Google Play Movies"
+      },
+      {
+        "id": 192,
+        "name": "YouTube"
+      },
+      {
+        "id": 538,
+        "name": "Plex"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "en",
+    "country": "US",
+    "certification": "PG",
+    "commonsense": null,
+    "age_rating": 11,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "Released",
+    "trailer": "https://youtube.com/watch?v=HOfdboHvshg",
+    "poster": "https://image.tmdb.org/t/p/original/4BMG9hk9NvSBeQvC82sVmVRK140.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/msqeiEyIRpPAtrCeRGFNZQ9tkJL.jpg"
+  },
+  {
+    "id": 55614,
+    "title": "Tears of Steel",
+    "year": 2012,
+    "released": "2012-09-25",
+    "description": "The film’s premise is about a group of warriors and scientists, who gathered at the “Oude Kerk” in Amsterdam to stage a crucial event from the past, in a desperate attempt to rescue the world from destructive robots.",
+    "tagline": null,
+    "runtime": 12,
+    "budget": null,
+    "revenue": null,
+    "score": 25,
+    "score_average": 57,
+    "ids": {
+      "imdb": "tt5129250",
+      "trakt": 90547,
+      "tmdb": 133701,
+      "tvdb": 37711,
+      "mal": null,
+      "mdblist": "16wu"
+    },
+    "type": "movie",
+    "updated": "2026-07-12T00:14:45.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 5.4,
+        "score": 54,
+        "votes": 38,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/slozi-stali"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 58,
+        "score": 58,
+        "votes": 136,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/tears_of_steel",
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": 1,
+        "url": "/m/tears_of_steel"
+      },
+      {
+        "source": "tmdb",
+        "value": 57,
+        "score": 57,
+        "votes": 62,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": 6,
+        "score": 60,
+        "votes": 629,
+        "url": "/film/tears-of-steel/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 16,
+        "title": "Science Fiction"
+      },
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 5,
+        "title": "Documentary"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [
+      {
+        "id": 212,
+        "name": "Hoopla"
+      },
+      {
+        "id": 538,
+        "name": "Plex"
+      },
+      {
+        "id": 559,
+        "name": "Filmzie"
+      },
+      {
+        "id": 2285,
+        "name": "JustWatch TV"
+      },
+      {
+        "id": 2667,
+        "name": "YOW.tv"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      }
+    ],
+    "language": "cs",
+    "spoken_language": "en",
+    "country": "US",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "Released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/8qy3jRmaHR7f8VZh3iXCqCWfFsH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/fOy6SL5Zs2PFcNXwqEPIDPrLB1q.jpg"
+  },
+  {
+    "id": 86664,
+    "title": "Caminandes: Gran Dillama",
+    "year": 2013,
+    "released": "2013-11-22",
+    "description": "A young llama named Koro discovers that the grass is always greener on the other side (of the fence).",
+    "tagline": null,
+    "runtime": 3,
+    "budget": null,
+    "revenue": null,
+    "score": 15,
+    "score_average": 72,
+    "ids": {
+      "imdb": "tt3434172",
+      "trakt": 154246,
+      "tmdb": 253774,
+      "tvdb": null,
+      "mal": null,
+      "mdblist": "1uvc"
+    },
+    "type": "movie",
+    "updated": "2026-07-02T15:04:18.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 6.6,
+        "score": 66,
+        "votes": 141,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/to-dilemma-tou-lama"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 79,
+        "score": 79,
+        "votes": 25,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/caminandes_gran_dillama",
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/caminandes_gran_dillama"
+      },
+      {
+        "source": "tmdb",
+        "value": 73,
+        "score": 73,
+        "votes": 17,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/film/caminandes-gran-dillama/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 3,
+        "title": "Comedy"
+      },
+      {
+        "id": 7,
+        "title": "Family"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [
+      {
+        "id": 559,
+        "name": "Filmzie"
+      },
+      {
+        "id": 2667,
+        "name": "YOW.tv"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      },
+      {
+        "id": 116844,
+        "name": "Blender Animation Studio"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "en",
+    "country": "US",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "Released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/7YtEiEzRBVCr8Sbgo1kVsr3OCMk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/206A3X9EH42kmdQMECq90SbjHCn.jpg"
+  },
+  {
+    "id": 86621,
+    "title": "Caminandes: Llama Drama",
+    "year": 2013,
+    "released": "2013-02-10",
+    "description": "Koro wants to get to the other side of the road.",
+    "tagline": null,
+    "runtime": 2,
+    "budget": null,
+    "revenue": null,
+    "score": 0,
+    "score_average": 69,
+    "ids": {
+      "imdb": "tt6059374",
+      "trakt": 154249,
+      "tmdb": 253777,
+      "tvdb": null,
+      "mal": null,
+      "mdblist": "1uu5"
+    },
+    "type": "movie",
+    "updated": "2026-04-21T05:21:08.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 6.7,
+        "score": 67,
+        "votes": 73,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/to-drama-tou-lama"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 72,
+        "score": 72,
+        "votes": 24,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/carminades_llama_drama",
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/carminades_llama_drama"
+      },
+      {
+        "source": "tmdb",
+        "value": 69,
+        "score": 69,
+        "votes": 8,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/film/caminandes-llama-drama/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 3,
+        "title": "Comedy"
+      },
+      {
+        "id": 7,
+        "title": "Family"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [
+      {
+        "id": 2667,
+        "name": "YOW.tv"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "en",
+    "country": "us",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/66VPke0YSiyfe97aobbcZ55ts56.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/mjkoC8Vo7fSHuqrbVQdI6cNwKA2.jpg"
+  },
+  {
+    "id": 1772901,
+    "title": "Monkaa",
+    "year": 2014,
+    "released": "2014-10-25",
+    "description": "Monkaa is a blue furred, pink faced monkey who consumes a crystallized meteorite, making Monkaa invincibly strong and too hot to handle. Exploring his superpower Monkaa zooms into an unexplored universe.  Project Monkaa is a 5 minutes short animated movie, entirely made with Blender and GIMP and other Free/Open Software programs. It has been released as an Open Movie, including all production files and tutorials, as CC-BY at cloud.blender.org and as DVD in the blender.org store.  Produced by: Weybec  Released by Blender Cloud and blender.org e-store",
+    "tagline": "3D, Animation, Blender, Free Software",
+    "runtime": 6,
+    "budget": null,
+    "revenue": null,
+    "score": 0,
+    "score_average": 0,
+    "ids": {
+      "imdb": "tt6091426",
+      "trakt": 195699,
+      "tmdb": 303438,
+      "tvdb": null,
+      "mal": null,
+      "mdblist": "11zz9"
+    },
+    "type": "movie",
+    "updated": "2026-06-30T11:23:38.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 4.5,
+        "score": 45,
+        "votes": 15,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/monkaa"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 70,
+        "score": 70,
+        "votes": 5,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null,
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "tmdb",
+        "value": 63,
+        "score": 63,
+        "votes": 3,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/film/monkaa/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 3,
+        "title": "Comedy"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [],
+    "production_companies": [
+      {
+        "id": 38405,
+        "name": "Weybec"
+      },
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "en",
+    "country": "us",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/cPd2cekKSZMGHDomFrh7YKpdLv1.jpg",
+    "backdrop": null
+  },
+  {
+    "id": 86541,
+    "title": "Cosmos Laundromat",
+    "year": 2015,
+    "released": "2015-08-10",
+    "description": "On a desolate island, a suicidal sheep named Franck meets his fate…in the form of a quirky salesman named Victor, who offers him the gift of a lifetime. The gift is many lifetimes, actually, in many different worlds – each lasting just a few minutes. In the sequel to the pilot, Franck will find a new reason to live…in the form of a bewitching female adventurer named Tara, who awakens his long-lost lust for life. But can Franck keep up with her?",
+    "tagline": "Any life you ever wanted!",
+    "runtime": 12,
+    "budget": null,
+    "revenue": null,
+    "score": 47,
+    "score_average": 63,
+    "ids": {
+      "imdb": "tt4957236",
+      "trakt": 235288,
+      "tmdb": 358332,
+      "tvdb": 95628,
+      "mal": null,
+      "mdblist": "1urx"
+    },
+    "type": "movie",
+    "updated": "2026-07-15T16:11:01.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 6.8,
+        "score": 68,
+        "votes": 1202,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/kosmicheskaia-prachechnaia"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 63,
+        "score": 63,
+        "votes": 130,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/cosmos_laundromat",
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": 56,
+        "score": 56,
+        "votes": 4,
+        "url": "/m/cosmos_laundromat"
+      },
+      {
+        "source": "tmdb",
+        "value": 63,
+        "score": 63,
+        "votes": 60,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": 6.6,
+        "score": 66,
+        "votes": 3696,
+        "url": "/film/cosmos-laundromat/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      },
+      {
+        "id": 8,
+        "title": "Fantasy"
+      }
+    ],
+    "streams": [
+      {
+        "id": 1,
+        "name": "Netflix"
+      }
+    ],
+    "watch_providers": [
+      {
+        "id": 538,
+        "name": "Plex"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      },
+      {
+        "id": 62606,
+        "name": "Blender Institute"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "en",
+    "country": "NL",
+    "certification": "G",
+    "commonsense": null,
+    "age_rating": 7,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "Released",
+    "trailer": "https://youtube.com/watch?v=u8Y6S6ev-Vg",
+    "poster": "https://image.tmdb.org/t/p/original/5ZXi0oitpEgAdoJglFTc5SZF9nt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/f2wABsgj2lIR2dkDEfBZX8p4Iyk.jpg"
+  },
+  {
+    "id": 86663,
+    "title": "Caminandes: Llamigos",
+    "year": 2016,
+    "released": "2016-01-30",
+    "description": "In this episode of the Caminandes cartoon series we learn to know our hero Koro even better! It's winter in Patagonia, food is getting scarce. Koro the Llama engages with Oti the pesky penguin in an epic fight over that last tasty berry.  This short animation film was made with Blender and funded by the subscribers of the Blender Cloud platform. Already since 2007, Blender Institute successfully combines film and media production with improving a free and open source 3D creation pipeline.",
+    "tagline": null,
+    "runtime": 3,
+    "budget": null,
+    "revenue": null,
+    "score": 0,
+    "score_average": 71,
+    "ids": {
+      "imdb": "tt7993892",
+      "trakt": 283544,
+      "tmdb": 406956,
+      "tvdb": null,
+      "mal": null,
+      "mdblist": "1uvb"
+    },
+    "type": "movie",
+    "updated": "2026-07-03T11:21:12.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 6.8,
+        "score": 68,
+        "votes": 93,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/caminandes-3-llamigos"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 80,
+        "score": 80,
+        "votes": 16,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/caminandes_llamigos",
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/caminandes_llamigos"
+      },
+      {
+        "source": "tmdb",
+        "value": 67,
+        "score": 67,
+        "votes": 9,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/film/caminandes-llamigos/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 3,
+        "title": "Comedy"
+      },
+      {
+        "id": 7,
+        "title": "Family"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      },
+      {
+        "id": 25,
+        "title": "Adventure"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [
+      {
+        "id": 2667,
+        "name": "YOW.tv"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "en",
+    "country": "nl",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/753kJbZ5iS7DUomTKX9qF5Cs5NY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/tIX2BIhkhoFq1iwtHYzTSbHbe82.jpg"
+  },
+  {
+    "id": 86927,
+    "title": "Glass Half",
+    "year": 2015,
+    "released": "2015-10-30",
+    "description": "Two amateur art critics meet in a gallery and argue passionately about the pieces they see, until finally they find a piece on which they can agree...",
+    "tagline": null,
+    "runtime": 4,
+    "budget": null,
+    "revenue": null,
+    "score": 8,
+    "score_average": 65,
+    "ids": {
+      "imdb": "tt5243642",
+      "trakt": 354641,
+      "tmdb": 420577,
+      "tvdb": 151167,
+      "mal": null,
+      "mdblist": "1v2n"
+    },
+    "type": "movie",
+    "updated": "2026-06-28T15:06:49.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 6.8,
+        "score": 68,
+        "votes": 59,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/glass-half"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 67,
+        "score": 67,
+        "votes": 11,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null,
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "tmdb",
+        "value": 62,
+        "score": 62,
+        "votes": 11,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/film/glass-half/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 3,
+        "title": "Comedy"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      },
+      {
+        "id": 116844,
+        "name": "Blender Animation Studio"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "en",
+    "country": "US",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "Released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/hrAEYBMb6vitzXMvBC7RKj3ZyWt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/AlqiewYiIpnoR4yqeo17y1SBf6S.jpg"
+  },
+  {
+    "id": 86618,
+    "title": "Agent 327: Operation Barbershop",
+    "year": 2017,
+    "released": "2017-05-12",
+    "description": "Agent 327 is investigating a clue that leads him to a shady barbershop in Amsterdam. Little does he know that he is being tailed by mercenary Boris Kloris.",
+    "tagline": null,
+    "runtime": 4,
+    "budget": 300000,
+    "revenue": null,
+    "score": 35,
+    "score_average": 69,
+    "ids": {
+      "imdb": "tt6914802",
+      "trakt": 303967,
+      "tmdb": 457784,
+      "tvdb": 31944,
+      "mal": null,
+      "mdblist": "1uu2"
+    },
+    "type": "movie",
+    "updated": "2026-07-17T08:45:50.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 6.9,
+        "score": 69,
+        "votes": 670,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/agent-327-operatsiia-parikmakherskaia"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 73,
+        "score": 73,
+        "votes": 58,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null,
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "tmdb",
+        "value": 69,
+        "score": 69,
+        "votes": 32,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": 6.6,
+        "score": 66,
+        "votes": 1532,
+        "url": "/film/agent-327-operation-barbershop/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 3,
+        "title": "Comedy"
+      },
+      {
+        "id": 1,
+        "title": "Action"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [
+      {
+        "id": 2529,
+        "name": "Vimeo"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 62606,
+        "name": "Blender Institute"
+      },
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      },
+      {
+        "id": 116844,
+        "name": "Blender Animation Studio"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "en",
+    "country": "nl",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/tSIMZK9XZSIb1dL3iQeTESEZvHw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/aupI9kV5CawUp02XWnI2l7Ym9SH.jpg"
+  },
+  {
+    "id": 87390,
+    "title": "The Daily Dweebs",
+    "year": 2017,
+    "released": "2017-10-19",
+    "description": "The Daily Dweebs is a pilot episode of an animated series revolving around the pet Dixey and his shenanigans in 1950's American suburbia.",
+    "tagline": null,
+    "runtime": 1,
+    "budget": null,
+    "revenue": null,
+    "score": 0,
+    "score_average": 67,
+    "ids": {
+      "imdb": "tt7994726",
+      "trakt": 345364,
+      "tmdb": 498482,
+      "tvdb": 106532,
+      "mal": null,
+      "mdblist": "1vfi"
+    },
+    "type": "movie",
+    "updated": "2026-07-12T10:14:55.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 6.4,
+        "score": 64,
+        "votes": 65,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/the-daily-dweebs"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 72,
+        "score": 72,
+        "votes": 13,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null,
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "tmdb",
+        "value": 66,
+        "score": 66,
+        "votes": 9,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/film/the-daily-dweebs/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 3,
+        "title": "Comedy"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [],
+    "production_companies": [
+      {
+        "id": 62606,
+        "name": "Blender Institute"
+      },
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      },
+      {
+        "id": 116844,
+        "name": "Blender Animation Studio"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "en",
+    "country": "us",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/jTTm5zgJRPYSKD2aEp6F7bVI7b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/8oCW8Njdabb9K3OwK1y8KUsHFvk.jpg"
+  },
+  {
+    "id": 390722,
+    "title": "Spring",
+    "year": 2019,
+    "released": "2019-04-04",
+    "description": "The story of a shepherd girl and her dog who face ancient spirits in order to continue the cycle of life.",
+    "tagline": null,
+    "runtime": 8,
+    "budget": null,
+    "revenue": null,
+    "score": 22,
+    "score_average": 72,
+    "ids": {
+      "imdb": "tt9249278",
+      "trakt": 439066,
+      "tmdb": 593048,
+      "tvdb": 150406,
+      "mal": null,
+      "mdblist": "8dhe"
+    },
+    "type": "movie",
+    "updated": "2026-07-20T03:22:08.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 7.2,
+        "score": 72,
+        "votes": 287,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/spring"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 72,
+        "score": 72,
+        "votes": 40,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/spring_2019",
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/m/spring_2019"
+      },
+      {
+        "source": "tmdb",
+        "value": 75,
+        "score": 75,
+        "votes": 15,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": 7,
+        "score": 70,
+        "votes": 994,
+        "url": "/film/spring-2019/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "title": "Fantasy"
+      },
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 25,
+        "title": "Adventure"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [],
+    "production_companies": [
+      {
+        "id": 116844,
+        "name": "Blender Animation Studio"
+      },
+      {
+        "id": 147545,
+        "name": "CGMeetup"
+      },
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "xx",
+    "country": "nl",
+    "certification": "PG",
+    "commonsense": null,
+    "age_rating": 11,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/g5dSJtpoXYCSVx70srSAc3wqNFc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/lL04DVOu1b64Xoj1EuWHZdtcfaZ.jpg"
+  },
+  {
+    "id": 4824353,
+    "title": "HERO",
+    "year": 2018,
+    "released": "2018-04-16",
+    "description": "\"Hero\" is a short animation where our protagonist faces a crucial test; \"What does it mean to be a true hero?\" HERO is made using Blender as showcase of Blender's Grease Pencil Tool that allows 2D animation tools within a full 3D pipeline.",
+    "tagline": null,
+    "runtime": 4,
+    "budget": null,
+    "revenue": null,
+    "score": 0,
+    "score_average": 0,
+    "ids": {
+      "imdb": "tt9129976",
+      "trakt": 458521,
+      "tmdb": 615324,
+      "tvdb": 151166,
+      "mal": null,
+      "mdblist": "2veht"
+    },
+    "type": "movie",
+    "updated": "2026-05-29T19:45:48.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 7,
+        "score": 70,
+        "votes": 30,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/hero"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 81,
+        "score": 81,
+        "votes": 6,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null,
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "tmdb",
+        "value": 71,
+        "score": 71,
+        "votes": 8,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/film/hero-2018-1/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      },
+      {
+        "id": 1,
+        "title": "Action"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      },
+      {
+        "id": 116844,
+        "name": "Blender Animation Studio"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "en",
+    "country": "us",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/udWCrPAYCzZh6rp48dGr90ohJ2v.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/7poXZZ6JZA0AN9nhXvt8JbzlX7T.jpg"
+  },
+  {
+    "id": 964442,
+    "title": "Coffee Run",
+    "year": 2020,
+    "released": "2020-05-29",
+    "description": "Fueled by caffeine, a young woman runs through the bittersweet memories of her past relationship.  All graphic content is CC-By Blender Studio.",
+    "tagline": null,
+    "runtime": 3,
+    "budget": null,
+    "revenue": null,
+    "score": 0,
+    "score_average": 74,
+    "ids": {
+      "imdb": "tt13716914",
+      "trakt": 560782,
+      "tmdb": 717986,
+      "tvdb": 151170,
+      "mal": null,
+      "mdblist": "ko62"
+    },
+    "type": "movie",
+    "updated": "2026-07-10T18:48:02.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 7.1,
+        "score": 71,
+        "votes": 81,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/coffee-run"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 77,
+        "score": 77,
+        "votes": 11,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null,
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "tmdb",
+        "value": 78,
+        "score": 78,
+        "votes": 9,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": 7,
+        "score": 70,
+        "votes": 239,
+        "url": "/film/coffee-run/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [],
+    "production_companies": [
+      {
+        "id": 116844,
+        "name": "Blender Animation Studio"
+      },
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "xx",
+    "country": "us",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/tFaE5KZOzTTTaNAEDD8CY1ZBjei.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/pUHJzzq6fUowt8NrfDL5JAfjbqR.jpg"
+  },
+  {
+    "id": 4767379,
+    "title": "Sprite Fright",
+    "year": 2024,
+    "released": "2024-04-06",
+    "description": "Set in 80’s-Britain, when a group of rowdy teenagers trek into an isolated forest, they discover peaceful mushroom creatures that turn out to be an unexpected force of nature.",
+    "tagline": "Not all mushrooms are fun guys.",
+    "runtime": 11,
+    "budget": null,
+    "revenue": null,
+    "score": 20,
+    "score_average": 74,
+    "ids": {
+      "imdb": "tt15804252",
+      "trakt": 715345,
+      "tmdb": 891761,
+      "tvdb": 339186,
+      "mal": null,
+      "mdblist": "2u6j7"
+    },
+    "type": "movie",
+    "updated": "2026-07-20T15:40:21.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 7.5,
+        "score": 75,
+        "votes": 278,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/teror-mukhomoriv"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 72,
+        "score": 72,
+        "votes": 31,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null,
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "tmdb",
+        "value": 78,
+        "score": 78,
+        "votes": 5,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": 7.4,
+        "score": 74,
+        "votes": 1352,
+        "url": "/film/sprite-fright/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 3,
+        "title": "Comedy"
+      },
+      {
+        "id": 11,
+        "title": "Horror"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [
+      {
+        "id": 2285,
+        "name": "JustWatch TV"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      },
+      {
+        "id": 116844,
+        "name": "Blender Animation Studio"
+      },
+      {
+        "id": 219862,
+        "name": "Keflix Global Networks"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "en",
+    "country": "us",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": 15,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/AjWJQOogG4Irpff6K49tzrUTb1s.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/aCMT1okuiKFnyKHdCOez66rJKyT.jpg"
+  },
+  {
+    "id": 5035069,
+    "title": "Charge",
+    "year": 2022,
+    "released": "2022-12-15",
+    "description": "Blender Studio’s 14th Open Movie is a high-visual-impact, action-packed 2-minutes-long animation inspired by the game cinematics and realtime demos formats.",
+    "tagline": "Blender Studio’s 14th Open Movie",
+    "runtime": 4,
+    "budget": null,
+    "revenue": null,
+    "score": 0,
+    "score_average": 72,
+    "ids": {
+      "imdb": "tt24787066",
+      "trakt": 854461,
+      "tmdb": 1062079,
+      "tvdb": 359813,
+      "mal": null,
+      "mdblist": "2zx31"
+    },
+    "type": "movie",
+    "updated": "2026-06-30T15:12:28.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 7.6,
+        "score": 76,
+        "votes": 69,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/charge"
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 69,
+        "score": 69,
+        "votes": 11,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null,
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "tmdb",
+        "value": 74,
+        "score": 74,
+        "votes": 5,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": 7,
+        "score": 70,
+        "votes": 242,
+        "url": "/film/charge-2022/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 1,
+        "title": "Action"
+      },
+      {
+        "id": 67,
+        "title": "Sci-Fi"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      },
+      {
+        "id": 116844,
+        "name": "Blender Animation Studio"
+      }
+    ],
+    "language": "en",
+    "spoken_language": "xx",
+    "country": "NL",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "Released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/rwtz71mOYHp7JbTVOzRCfveWNzq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/hwvuivrtKFA4tPkW81txs7oKJOx.jpg"
+  },
+  {
+    "id": 5334454,
+    "title": "Wing It!",
+    "year": 2023,
+    "released": "2023-09-06",
+    "description": "Blender Studio’s 15th Open Movie: An uptight engineer gets an unwelcome visit from a enthusiastic wannabe-pilot, causing both of them to be launched into the air inside an out-of-control space shuttle.",
+    "tagline": "A Pet Project",
+    "runtime": 4,
+    "budget": null,
+    "revenue": null,
+    "score": 0,
+    "score_average": 0,
+    "ids": {
+      "imdb": "tt29100749",
+      "trakt": 949634,
+      "tmdb": 1177628,
+      "tvdb": 359812,
+      "mal": null,
+      "mdblist": "36c3a"
+    },
+    "type": "movie",
+    "updated": "2026-06-28T13:01:50.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": 6.9,
+        "score": 69,
+        "votes": 35,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": 72,
+        "score": 72,
+        "votes": 4,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null,
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "tmdb",
+        "value": 75,
+        "score": 75,
+        "votes": 2,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": "/film/wing-it-2023/"
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "title": "Comedy"
+      },
+      {
+        "id": 24,
+        "title": "Animation"
+      },
+      {
+        "id": 17,
+        "title": "Short"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      },
+      {
+        "id": 116844,
+        "name": "Blender Animation Studio"
+      }
+    ],
+    "language": "xx",
+    "spoken_language": "xx",
+    "country": "nl",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/kVRGAgqUC2u75pLsXgDj14tOsRJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/o2G1kW9pCcRo7NmiZhJBm5LcVpH.jpg"
+  },
+  {
+    "id": 6936125,
+    "title": "Singularity",
+    "year": 2026,
+    "released": "2026-05-08",
+    "description": "Our story takes place in a distant age of the universe, when the stars and galaxies were young. When an ominous cosmic event swallows the icy home of a small space critter, he must find refuge among a group of luminous creatures watched over by a mysterious celestial being.",
+    "tagline": null,
+    "runtime": null,
+    "budget": null,
+    "revenue": null,
+    "score": -1,
+    "score_average": 0,
+    "ids": {
+      "imdb": "tt42577669",
+      "trakt": 1372223,
+      "tmdb": 1687677,
+      "tvdb": null,
+      "mal": null,
+      "mdblist": "44ny5"
+    },
+    "type": "movie",
+    "updated": "2026-07-19T22:27:14.000Z",
+    "ratings": [
+      {
+        "source": "imdb",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": 5000
+      },
+      {
+        "source": "metacritic",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "metacriticuser",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "trakt",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "tomatoes",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null,
+        "fresh": 0
+      },
+      {
+        "source": "popcorn",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "tmdb",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "letterboxd",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "rogerebert",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      },
+      {
+        "source": "myanimelist",
+        "value": null,
+        "score": null,
+        "votes": null,
+        "url": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "title": "Animation"
+      }
+    ],
+    "streams": [],
+    "watch_providers": [],
+    "production_companies": [
+      {
+        "id": 6908,
+        "name": "Blender Foundation"
+      },
+      {
+        "id": 116844,
+        "name": "Blender Animation Studio"
+      }
+    ],
+    "language": "xx",
+    "spoken_language": null,
+    "country": "NL",
+    "certification": "NR",
+    "commonsense": null,
+    "age_rating": null,
+    "commonsense_media": {},
+    "awards": null,
+    "status": "Released",
+    "trailer": null,
+    "poster": "https://image.tmdb.org/t/p/original/tsTGGB6NGVzHMuNXEV328jU0Eyx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/kO1leUeopPmJRTeRxThR0eo15GE.jpg"
+  }
+]
